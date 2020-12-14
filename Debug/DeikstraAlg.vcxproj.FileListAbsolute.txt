@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\DeikstraAlg\Debug\DeikstraAlg.exe
+C:\Users\HP\source\repos\DeikstraAlg\Debug\DeikstraAlg.pdb

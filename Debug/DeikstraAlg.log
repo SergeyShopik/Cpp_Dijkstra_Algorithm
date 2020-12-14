@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\DeikstraAlg\Source.cpp(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\DeikstraAlg\Source.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+  DeikstraAlg.vcxproj -> C:\Users\HP\source\repos\DeikstraAlg\Debug\DeikstraAlg.exe
